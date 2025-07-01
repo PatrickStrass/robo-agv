@@ -17,5 +17,5 @@ e executar um caminho pré-determinado.
 
 ## Funcionamento
 
-[Vídeo de apresentação](https://www.youtube.com.br)
+[Vídeo de apresentação](https://youtu.be/fjx8oQ54pAo)
 
